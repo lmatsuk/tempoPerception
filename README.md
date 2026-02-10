@@ -1,2 +1,5 @@
 # tempoPerception
-Contains raw data and analysis code for the paper "Body Height, Age, Musical and Dance Sophistication Pre-dict Tempo Perception in Music", currently (Feb '26) under review.
+Contains raw data and analysis code for the paper "Body Height, Age, Musical and Dance Sophistication Predict Tempo Perception in Music", currently (Feb '26) under review.
+
+**Abstract**
+The perception of tempo is an important aspect of music cognition. But tempo is usually associated with visible movement in physical space, which acoustical sig-nals do not provide. Therefore, we propose that body movement tempo bridges the gap between physical movement tempo and musical tempo. As individual move-ment tempi differ, we expected that the perception of tempo must differ inter-individually as well. Participants listened to a set of the same musical stimulus in twenty different tempi (40–135 bpm) and rated their perceived tempo on a 5-point scale. Results show that factors influencing movement tempo in musical and non-musical contexts (body height, age, musical and dance expertise) also influence perceived musical tempo. This effect is dependent on the tempo range in which it occurs, mainly appearing at the upper and lower ends of the tempo scale used.
